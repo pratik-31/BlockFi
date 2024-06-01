@@ -1,0 +1,8 @@
+import realEstate from "./RealEstate.json";
+
+//REAL ESTATE
+//LOCAL ADDRESS
+// export const REAL_ESTATE_ADDRESS = "0xBd770416a3345F91E4B34576cb804a576fa48EB1";
+//POLYGON ADDRESS
+export const REAL_ESTATE_ADDRESS = "0x3a542B85044A200871dE94597788BC5a6df639e5";
+export const REAL_ESTATE_ABI = realEstate.abi;
